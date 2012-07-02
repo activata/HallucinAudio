@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+	<string name="app_name">HallucinAudio</string>
+	<string name="pref_button_text">Preferences</string>
+	<string name="about_title">About Pure Data</string>
+	<string name="about_msg">Pure Data is a real-time graphical programming
+		environment for audio, video, and graphical processing, originally
+		developed by Miller Puckette and company at IRCAM. Android port by
+		Peter Brinkmann, Peter Kirn, Hans-Christoph Steiner, and others.
+	</string>
+
+</resources>
