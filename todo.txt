@@ -1,0 +1,32 @@
++-------+
+|General|
++-------+
+
+Usuarios
+--------
+-Hacer Readme
+
+
++--------+
+|Patch Pd|
++--------+
+
+Sequencer
+---------
+-Hacer fills cada 16 vueltas
+-Reducir variación a un solo slider
+
+
++-------+
+|Android|
++-------+
+
+Gui
+---
+-Boceto Diseño
+
+Market
+------
+
+-Intestigar como empaquetar para beta testers
+--Averiguar como se monta una app al market
